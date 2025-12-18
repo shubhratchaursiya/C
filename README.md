@@ -1,6 +1,5 @@
 ---
 
-````markdown
 ![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c)
 ![Level](https://img.shields.io/badge/Level-Core%20%26%20Intermediate-success?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey?style=for-the-badge)
